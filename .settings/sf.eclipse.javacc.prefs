@@ -1,0 +1,6 @@
+CLEAR_CONSOLE=false
+JJ_NATURE=true
+RUNTIME_JJJAR=C\:/Program Files (x86)/eclipse/../../Users/admin/.eclipse/org.eclipse.platform_4.6.1_248562372_win32_win32_x86/plugins/sf.eclipse.javacc_1.5.33/jars/javacc-5.0.jar
+RUNTIME_JTBJAR=C\:/Program Files (x86)/eclipse/../../Users/admin/.eclipse/org.eclipse.platform_4.6.1_248562372_win32_win32_x86/plugins/sf.eclipse.javacc_1.5.33/jars/jtb-1.4.11.jar
+SUPPRESS_WARNINGS=false
+eclipse.preferences.version=1
